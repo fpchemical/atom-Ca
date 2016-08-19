@@ -1,13 +1,13 @@
-# Atoms - Rb
+# Atoms - Ca
 
-Átomo do Estrôncio, inicialmente em pt-br.
+Átomo do Cálcio, inicialmente em pt-br.
 
 ## Estrutura
 
 ```js
 module.exports = { 
-  simbolo: 'Rb', 
-  nome: 'Rubídio',
+  simbolo: 'Ca', 
+  nome: 'Cálcio',
   familia: {
     {      
       coluna: '2'

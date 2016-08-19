@@ -1,12 +1,12 @@
 module.exports = { 
-  simbolo: 'Li', 
-  nome: 'lítio',
+  simbolo: 'Ca', 
+  nome: 'Cálcio',
   familia: {
     {      
-      coluna: '1'
+      coluna: '2'
     }, 
     {
-      grupo: '1A'
+      grupo: '2A'
     }, 
     {
       descritiva: ''
