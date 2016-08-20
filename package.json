@@ -1,0 +1,30 @@
+{
+  "name": "atom-ca",
+  "version": "1.0.0",
+  "description": "Propriedades do átomo de Cálcio",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suissa/atom-Ca.git"
+  },
+  "keywords": [
+    "atom",
+    "átomo",
+    "ca",
+    "Cálcio",
+    "química",
+    "chemistry",
+    "webschool"
+  ],
+  "author": "Suissa",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/suissa/atom-Ca/issues"
+  },
+  "homepage": "https://github.com/suissa/atom-Ca#readme"
+}
